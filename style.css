@@ -1,0 +1,46 @@
+body {
+	font-family: "georgia";
+}
+#cajaBotones{
+	width: 40%;
+	border: 3px solid;
+	border-radius: 5px;
+	margin: 50px auto;
+	text-align: center;
+}
+#formAlta{
+	padding: 10px;
+	margin: auto;
+	width: 600px;
+	border: 3px dashed;
+	border-color: #1a75ff;
+	border-radius: 3px;
+}
+.botonIndex{
+	padding: 3px 10px;
+	margin: 20px 0;
+}
+table{
+	margin: auto;
+	border-collapse: collapse;
+	margin-bottom: 30px;
+}
+#tablaAlta{
+	margin-bottom: 0;
+}
+.cabecera{
+	border: 2px solid white;
+	color: white;
+	background: #1a75ff;
+	padding: 5px;
+	font-weight: bold;
+}
+.celda{
+	border: 2px solid white;
+	background: #ccc;
+	padding: 5px;
+}
+/*.botonVolver{
+	margin-top: 30px;
+}
+*/
