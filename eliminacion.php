@@ -9,10 +9,10 @@ http://www.w3.org/TR/html4/loose.dtd">
 	</head>
 	<body>
 		<?php
-		$servername = "db5000281397.hosting-data.io";
-		$username = "dbu461532";
-		$password = "Edgeworth.93";
-		$dbname = "dbs274668";
+		$servername = "";
+		$username = "";
+		$password = "";
+		$dbname = "";
 
 		// Create connection
 		$conn = new mysqli($servername, $username, $password, $dbname);
